@@ -17,7 +17,7 @@
 
 <!-- Portfolio -->
 <a href="https://lomerio.cloud" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=006d32" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About&logoColor=white&color=006d32" alt="Portfolio"/>
 </a>
 
 <!-- Email -->
