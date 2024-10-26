@@ -2,7 +2,7 @@
 
 <!-- Facebook -->
 <a href="https://facebook.com/profile.php?id=100093050435995" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=0e4429" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=006d32" alt="Facebook"/>
 </a>
 
 <!-- Instagram -->
