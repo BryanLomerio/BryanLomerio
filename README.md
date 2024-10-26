@@ -21,3 +21,6 @@
 </a>
 
 </div>
+
+### Email
+Feel free to reach out to me at: [bryanlomerioanino@gmail.com](mailto:bryanlomerioanino@gmail.com)
