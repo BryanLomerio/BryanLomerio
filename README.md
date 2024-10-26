@@ -20,7 +20,9 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=26a641" alt="Portfolio"/>
 </a>
 
-</div>
+<!-- Email -->
+<a href="mailto:bryanlomerioanino@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=26a641" alt="Email"/>
+</a>
 
-### Email
-Feel free to reach out to me at: [bryanlomerioanino@gmail.com](mailto:bryanlomerioanino@gmail.com)
+</div>
