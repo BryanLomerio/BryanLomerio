@@ -25,9 +25,10 @@
   </a>
 </div>
 
- <div align="center">
-  <span style="color: #800080;">⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤</span>
+<div align="center">
+  <span style="color: #800080;">━━━━━━━━━━━━━━━━━━━━━━</span>
 </div>
+
 
 
 
