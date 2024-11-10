@@ -25,9 +25,8 @@
   </a>
 </div>
 
-<div align="center">
-  <span style="color: #800080;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
-</div>
+<hr style="border: none; height: 2px; background-color: #800080 !important; width: 20%;" />
+
 
 
 
