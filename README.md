@@ -25,7 +25,7 @@
   </a>
 </div>
 
-<hr style="border: 1px solid #800080; width: 20%;" />
+<hr style="border: none; height: 2px; background-color: #800080; width: 20%;" />
 
 <div align="center">
   
