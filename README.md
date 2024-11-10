@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=006d32" alt="Email"/>
   </a>
 </div>
-<hr style="border: 1px solid #006d32; width: 80%;" />
+<hr style="border: 1px solid #006d32; width: 20%;" />
 <div align="center">
   
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=006d32)
