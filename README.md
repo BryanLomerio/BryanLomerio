@@ -24,11 +24,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=006d32" alt="Email" style="border: none; padding: 0;"/>
   </a>
 </div>
-
-<hr style="border: none; height: 0; background-color: #800080 !important; width: 20%;" />
-
-
-
 <div align="center">
   
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=006d32)
