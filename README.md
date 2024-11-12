@@ -6,7 +6,7 @@
 
   <!-- Instagram -->
   <a href="https://instagram.com/yourprofile" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=006d32" alt="Instagram" style="border: none; padding: 0;"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=4B0082" alt="Instagram" style="border: none; padding: 0;"/>
   </a>
 
   <!-- LinkedIn -->
