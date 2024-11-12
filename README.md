@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Facebook -->
   <a href="https://facebook.com/profile.php?id=100093050435995" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=720e9e" alt="Facebook" style="border: none; padding: 0;"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=4B0082" alt="Facebook" style="border: none; padding: 0;"/>
   </a>
 
   <!-- Instagram -->
@@ -11,29 +11,29 @@
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/bryanlomerio" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=452c63" alt="LinkedIn" style="border: none; padding: 0;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=4B0082" alt="LinkedIn" style="border: none; padding: 0;"/>
   </a>
 
   <!-- Portfolio -->
   <a href="https://lomerio.cloud" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About&logoColor=white&color=006d32" alt="Portfolio" style="border: none; padding: 0;"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About&logoColor=white&color=4B0082" alt="Portfolio" style="border: none; padding: 0;"/>
   </a>
 
   <!-- Email -->
   <a href="mailto:bryanlomerioanino@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=006d32" alt="Email" style="border: none; padding: 0;"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=4B0082" alt="Email" style="border: none; padding: 0;"/>
   </a>
 </div>
 <div align="center">
   
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=006d32)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=006d32)
-  ![JavaSscript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=006d32)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=006d32)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&color=006d32)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=006d32)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&color=006d32)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=006d32)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=006d32)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=4B0082)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=4B0082)
+  ![JavaSscript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=4B0082)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=4B0082)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&color=4B0082)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=4B0082)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&color=4B0082)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=4B0082)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=4B0082)
 
 </div>
