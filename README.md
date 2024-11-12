@@ -11,7 +11,7 @@
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/bryanlomerio" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=006d32" alt="LinkedIn" style="border: none; padding: 0;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=452c63" alt="LinkedIn" style="border: none; padding: 0;"/>
   </a>
 
   <!-- Portfolio -->
