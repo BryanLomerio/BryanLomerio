@@ -4,8 +4,15 @@
     <img src="https://streak-stats.demolab.com?user=BryanLomerio&theme=darcula" alt="GitHub Streak Stats - Bryan Lomerio" />
   </a>
 
-  <!-- Animated GIF -->
-  <img src="https://media1.tenor.com/m/fw-MBeOxEUEAAAAC/dandadan-ken.gif" alt="Dandadan Ken GIF" style="max-width: 300px; border-radius: 10px;" />
+  <!-- Animated GIFs -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="https://media1.tenor.com/m/fw-MBeOxEUEAAAAC/dandadan-ken.gif" 
+         alt="Dandadan Ken GIF 1" 
+         style="max-width: 150px; border-radius: 10px;" />
+    <img src="https://media.tenor.com/82QEdvgqds4AAAAM/dandadan-ken.gif" 
+         alt="Dandadan Ken GIF 2" 
+         style="max-width: 150px; border-radius: 10px;" />
+  </div>
 </div>
 
 
