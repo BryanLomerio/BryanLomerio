@@ -1,8 +1,11 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=BryanLomerio&theme=darcula" alt="GitHub Streak Stats - Bryan Lomerio" />
-  </a>
+<a href="https://git.io/streak-stats" target="_blank">
+  <img 
+    src="https://streak-stats.demolab.com?user=BryanLomerio&theme=darcula&background=5C2D91&border=ffffff" 
+    alt="GitHub Streak Stats - Bryan Lomerio" />
+</a>
+
  <!-- Animated GIF -->
   <img src="https://media1.tenor.com/m/fw-MBeOxEUEAAAAC/dandadan-ken.gif" alt="Dandadan Ken GIF" style="max-width: 100px; border-radius: 10px;" />
 </div>
