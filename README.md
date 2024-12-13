@@ -1,4 +1,14 @@
 
+
+<div align="center">
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=BryanLomerio&theme=darcula" alt="GitHub Streak Stats - Bryan Lomerio" />
+  </a>
+</div>
+
+
+
 <div align="center">
   <!-- Skill Badges -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=8957e5" alt="TypeScript" />
@@ -9,13 +19,4 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=8957e5" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&color=8957e5" alt="SQL" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=8957e5" alt="Node.js" />
-</div>
-
-
-
-<div align="center">
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=BryanLomerio&theme=darcula" alt="GitHub Streak Stats - Bryan Lomerio" />
-  </a>
 </div>
