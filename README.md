@@ -38,7 +38,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=8957e5" alt="Python" />
 </div>
 
-<!-- GitHub Streak -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=BryanLomerio&theme=darcula" alt="GitHub Streak" />
-</a>
+
+
+<div align="center">
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=BryanLomerio&theme=darcula" alt="GitHub Streak Stats - Bryan Lomerio" />
+  </a>
+</div>
