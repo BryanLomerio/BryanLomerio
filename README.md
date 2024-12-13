@@ -36,5 +36,5 @@
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=8957e5)  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=8957e5)
 </div>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BryanLomerio&theme=darcula" alt="GitHub Streak" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=BryanLomerio&theme=darcula)](https://git.io/streak-stats)
