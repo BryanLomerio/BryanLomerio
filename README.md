@@ -3,5 +3,4 @@
   <img src="https://media1.tenor.com/m/fw-MBeOxEUEAAAAC/dandadan-ken.gif" alt="Dandadan Ken GIF" style="max-width: 100px; border-radius: 10px;" />
 </div>
 
-![image](https://github.com/user-attachments/assets/c70efda2-e159-47cf-bbd6-b13a2f0b6c51)
-
+![Description of the GIF](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5bf98764-20b0-444c-a3cc-ad6985aeba5c/diadvj0-97a55a1e-86da-4a40-9b99-5ef8a008824a.gif)
