@@ -2,4 +2,5 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BryanLomerio&theme=midnight-purple&short_numbers=true" alt="GitHub Streak" /></a>
   <img src="https://media1.tenor.com/m/fw-MBeOxEUEAAAAC/dandadan-ken.gif" alt="Dandadan Ken GIF" style="max-width: 100px; border-radius: 10px;" />
 </div>
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5bf98764-20b0-444c-a3cc-ad6985aeba5c/diadvj0-97a55a1e-86da-4a40-9b99-5ef8a008824a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViZjk4NzY0LTIwYjAtNDQ0Yy1hM2NjLWFkNjk4NWFlYmE1Y1wvZGlhZHZqMC05N2E1NWExZS04NmRhLTRhNDAtOWI5OS01ZWY4YTAwODgyNGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3ucsLyU_KZfM_lARri_LIX40wuZEGqkCyNce5Ct_Io8"/>
+![Ken GIF](https://media.tenor.com/82QEdvgqds4AAAAM/dandadan-ken.gif)
+
