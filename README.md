@@ -4,4 +4,4 @@
 </div>
 <img src="https://media.tenor.com/82QEdvgqds4AAAAM/dandadan-ken.gif"/>
 
-<img src="https://media1.tenor.com/m/ZCFNvmnn9s4AAAAd/dan-da-dan-dandadan.gif"/>
+<img src="https://media1.tenor.com/m/_iBPOsxMgwkAAAAd/dandadan-dan-da-dan.gif"/>
