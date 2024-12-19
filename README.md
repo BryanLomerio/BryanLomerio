@@ -5,4 +5,4 @@
 </div>
 
 <img src="https://via.placeholder.com/500x10/9745f5/9745f5?text=" alt="Bottom Purple Bar" style="width: 100%; display: block; margin: 0;" />
-<img src="https://tenor.com/k4vj4bRljsj.gif">
+<img src="https://media1.tenor.com/m/fw-MBeOxEUEAAAAC/dandadan-ken.gif">
