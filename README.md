@@ -7,5 +7,4 @@
     </div>
    <img src="https://via.placeholder.com/500x10/9745f5/9745f5?text=" alt="Bottom Purple Bar" style="width: 100%; display: block; margin: 0;" />
 
-
 </div>
