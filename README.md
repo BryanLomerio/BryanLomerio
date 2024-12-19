@@ -5,4 +5,4 @@
 </div>
 
 <img src="https://via.placeholder.com/500x10/9745f5/9745f5?text=" alt="Bottom Purple Bar" style="width: 100%; display: block; margin: 0;" />
-<div class="tenor-gif-embed" data-postid="9155690524390265153" data-share-method="host" data-aspect-ratio="1.5" data-width="100%"><a href="https://tenor.com/view/dandadan-ken-gif-9155690524390265153">Dandadan Ken GIF</a>from <a href="https://tenor.com/search/dandadan-gifs">Dandadan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Dandadan Ken GIF](https://media.tenor.com/images/abcdefg1234567890/gif.gif)
