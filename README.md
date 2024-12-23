@@ -1,4 +1,5 @@
-![postspark_export_2024-12-23_23-52-13](https://github.com/user-attachments/assets/8036cd92-7789-4ff3-b235-a465f07ed9a1)
+<img src="https://github.com/user-attachments/assets/8036cd92-7789-4ff3-b235-a465f07ed9a1" width="300" />
+
 <div align="center" style="width: 100%; display: flex; justify-content: start;">
   <pre style="display: flex; flex-direction: start; left: 0; text-align: left;">const outcomes = { Win: 0, Fail: Infinity };
 console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);</pre>
