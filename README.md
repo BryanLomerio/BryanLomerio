@@ -1,4 +1,3 @@
-<img src="https://github.com/user-attachments/assets/8036cd92-7789-4ff3-b235-a465f07ed9a1" width="400" />
 
 <div align="center" style="width: 100%; display: flex; justify-content: start;">
   <pre style="display: flex; flex-direction: start; left: 0; text-align: left;">const outcomes = { Win: 0, Fail: Infinity };
