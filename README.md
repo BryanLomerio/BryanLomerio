@@ -1,3 +1,4 @@
+![postspark_export_2024-12-23_23-52-13](https://github.com/user-attachments/assets/8036cd92-7789-4ff3-b235-a465f07ed9a1)
 <div align="center" style="width: 100%; display: flex; justify-content: start;">
   <pre style="display: flex; flex-direction: start; left: 0; text-align: left;">const outcomes = { Win: 0, Fail: Infinity };
 console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);</pre>
@@ -12,4 +13,5 @@ console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);
    <img src="https://via.placeholder.com/500x10/9745f5/9745f5?text=" alt="Bottom Purple Bar" style="width: 100%; display: block; margin: 0;" />
 <!-- <a href="https://app.daily.dev/aninodev"><img src="https://api.daily.dev/devcards/v2/ig42BA1H0Wxa8gfKJ42Fy.png?type=wide&r=ylb" width="652" alt="AninoDev's Dev Card"/></a> -->
 </div>
+
 
