@@ -4,7 +4,7 @@
 console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);</pre>
 </div>
 
-![postspark_export_2024-12-24_00-05-41](https://github.com/user-attachments/assets/a6a6ba6f-a8fa-4655-9c7c-7c5587af7f0f)
+<img src="https://github.com/user-attachments/assets/a6a6ba6f-a8fa-4655-9c7c-7c5587af7f0f" width="500"/>
 
 
 <div align="center">
