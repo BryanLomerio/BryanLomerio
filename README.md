@@ -4,8 +4,9 @@
 console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);</pre>
 </div>
 
-<img src="https://github.com/user-attachments/assets/a6a6ba6f-a8fa-4655-9c7c-7c5587af7f0f" width="500"/>
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a6a6ba6f-a8fa-4655-9c7c-7c5587af7f0f" width="700"/>
+</div>
 
 <div align="center">
   <img src="https://via.placeholder.com/500x10/9745f5/9745f5?text=" alt="Bottom Purple Bar" style="width: 100%; display: block; margin: 0;" />
