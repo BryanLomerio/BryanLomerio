@@ -3,6 +3,10 @@
   <pre style="display: flex; flex-direction: start; left: 0; text-align: left;">const outcomes = { Win: 0, Fail: Infinity };
 console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);</pre>
 </div>
+
+![postspark_export_2024-12-24_00-05-41](https://github.com/user-attachments/assets/a6a6ba6f-a8fa-4655-9c7c-7c5587af7f0f)
+
+
 <div align="center">
   <img src="https://via.placeholder.com/500x10/9745f5/9745f5?text=" alt="Bottom Purple Bar" style="width: 100%; display: block; margin: 0;" />
     <div style="display: flex; justify-content: space-between; width: 100%; align-items: center; margin-bottom: 10px;">
