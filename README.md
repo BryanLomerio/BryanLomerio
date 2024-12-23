@@ -17,4 +17,3 @@ console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);
 <div align="center">
    <img src="https://github.com/user-attachments/assets/86849f4c-f3a8-44bb-a16f-0b039b2dffd2" width="513"/>
 </div>
-![postspark_export_2024-12-23_23-52-13](https://github.com/user-attachments/assets/86849f4c-f3a8-44bb-a16f-0b039b2dffd2)
