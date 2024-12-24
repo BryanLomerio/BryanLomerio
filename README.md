@@ -13,7 +13,3 @@ console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);
    <img src="https://via.placeholder.com/500x10/9745f5/9745f5?text=" alt="Bottom Purple Bar" style="width: 100%; display: block; margin: 0;" />
 <!-- <a href="https://app.daily.dev/aninodev"><img src="https://api.daily.dev/devcards/v2/ig42BA1H0Wxa8gfKJ42Fy.png?type=wide&r=ylb" width="652" alt="AninoDev's Dev Card"/></a> -->
 </div>
-
-<div align="center">
-   <img src="https://github.com/user-attachments/assets/86849f4c-f3a8-44bb-a16f-0b039b2dffd2" width="513"/>
-</div>
