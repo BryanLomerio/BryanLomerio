@@ -13,11 +13,9 @@ console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);
     </div>
    <img src="https://via.placeholder.com/500x10/9745f5/9745f5?text=" alt="Bottom Purple Bar" style="width: 100%; display: block; margin: 0;" />
 <!-- <a href="https://app.daily.dev/aninodev"><img src="https://api.daily.dev/devcards/v2/ig42BA1H0Wxa8gfKJ42Fy.png?type=wide&r=ylb" width="652" alt="AninoDev's Dev Card"/></a> -->
-  
-**_Visit my farm repo, adopt pets, and learn more about me!_** [Click here](https://github.com/BryanLomerio/Me) [🌾](https://github.com/BryanLomerio/Me) [🐄](https://github.com/BryanLomerio/Me) [🐑](https://github.com/BryanLomerio/Me)
-
-
-
-
 </div>
+  <br>
+  
+**_Visit my farm repo, adopt pets, and learn more about me!_** [![Click here](https://img.shields.io/badge/Click%20here-9745f5?style=flat&color=9745f5&labelColor=9745f5&fontSize=200)](https://github.com/BryanLomerio/Me) [🌾](https://github.com/BryanLomerio/Me) [🐄](https://github.com/BryanLomerio/Me) [🐑](https://github.com/BryanLomerio/Me)
+
 
