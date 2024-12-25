@@ -11,9 +11,10 @@ console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);
   </div>
 
   <img src="https://via.placeholder.com/500x10/9745f5/9745f5?text=" alt="Bottom Purple Bar" style="width: 100%; display: block; margin: 0;" />
-
+<div align="center" style="width: 100%; display: flex; justify-content: start;">
   <!-- Aligning Git Animals without gap -->
   <img src="https://render.gitanimals.org/farms/BryanLomerio" width="5000" height="500" style="display: block; margin-top: -10px; margin-bottom: 0;" />
+  </div>
 </div>
 
 
