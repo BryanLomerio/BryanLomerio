@@ -19,4 +19,3 @@ console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);
   width="600"
   height="300"
 />
-</a>
