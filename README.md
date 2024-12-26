@@ -11,6 +11,26 @@ console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);
   </div>
 
   <img src="https://via.placeholder.com/500x10/9745f5/9745f5?text=" alt="Bottom Purple Bar" style="width: 100%; display: block; margin: 0;" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=BryanLomerio&theme=dark&species=fox">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitpets.fly.dev/api?BryanLomerio=cassiusfive&petname=lorem+ipsum&theme=light&species=fox">
+  <img alt="Shows a gitpet" src="https://gitpets.fly.dev/api?BryanLomerio=cassiusfive&petname=lorem+ipsum&theme=dark&species=fox" width="200px">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=JRBadiola&theme=dark&species=bunny">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=lorem+ipsum&theme=light&species=bunny">
+  <img alt="Shows a gitpet" src="https://gitpets.fly.dev/api?JRBadiola=cassiusfive&petname=lorem+ipsum&theme=dark&species=bunny" width="200px">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=karlbernaldez&theme=dark&species=wolf">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=lorem+ipsum&theme=light&species=wolf">
+  <img alt="Shows a gitpet" src="https://gitpets.fly.dev/api?karlbernaldez=cassiusfive&petname=lorem+ipsum&theme=dark&species=wolf" width="200px">
+</picture>
+
+
   <img src="https://render.gitanimals.org/farms/BryanLomerio" width="5000" height="500" style="display: block; margin-top: -10px; margin-bottom: 0;" />
 
 </div>
