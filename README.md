@@ -11,7 +11,6 @@ console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);
   </div>
 
   <img src="https://via.placeholder.com/500x10/9745f5/9745f5?text=" alt="Bottom Purple Bar" style="width: 100%; display: block; margin: 0;" />
-
 </div>
 
 <h2 align="center">Tech Stack</h2>
@@ -28,6 +27,7 @@ console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <h2 align="center">Languages I Know</h2>
