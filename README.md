@@ -6,7 +6,9 @@
   </div>
 </div>
 
-<h2 align="left" style="font-family: Arial, sans-serif;"><b>Stack</b></h2>
+<h2 align="left" style="font-family: Arial, sans-serif;"><b>Languages and Tools:</b></h2>
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+<div align="center" style="width: 100%;">
+  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,php,mysql,jquery,tailwind,git,docker,postman,sass,express,mongodb,npm,replit)](https://skillicons.dev)
+</div>
