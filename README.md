@@ -10,5 +10,5 @@
 
 <div align="center" style="width: 100%;">
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,php,mysql,jquery,tailwind,git,docker,postman,sass,express,mongodb,npm,replit)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,php,mysql,jquery,tailwind,git,docker,postman,sass,express,mongodb,npm,replit)
 </div>
