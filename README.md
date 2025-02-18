@@ -7,9 +7,7 @@
 This account is for work purposes and open-source projects that might be useful to you.
 
 ![Codewars Badge](https://www.codewars.com/users/BryanLomerio/badges/large)
-<p align="left" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=BryanLomerio" />
-    </a>
-</p>
 
+<div align="left">
+  <img src="https://leetcard.jacoblin.cool/bryanlomerio?theme=dark&font=Noto%20Sans%20Kayah%20Li&ext=activity" alt="LeetCode Stats">
+</div>
