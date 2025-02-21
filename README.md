@@ -1,6 +1,8 @@
 ## Tech Stack
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40"/>
   <img src="https://skillicons.dev/icons?i=js,electron,ts,react,obsidian,git,docker,php,mysql,mongodb,express" width="400"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="JIRA" width="30"/>
 </div>
 
