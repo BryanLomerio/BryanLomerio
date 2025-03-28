@@ -4,4 +4,5 @@
 
   <!-- GitHub Streak Stats on the right -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanLomerio&theme=midnight-purple&hide_border=true" alt="BryanLomerio's GitHub Stats" style="flex-shrink: 0;" />
-</div>
+
+  <img src="https://render.gitanimals.org/lines/BryanLomerio?pet-id=684745091506332796" width="1000" height="200"/>
